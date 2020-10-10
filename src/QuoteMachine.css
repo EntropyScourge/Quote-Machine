@@ -1,0 +1,21 @@
+#quote-box {
+    text-align: center;
+    width: 500px;
+    margin: 250px auto;
+    border: solid;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+#text {
+    font-size: 40px;
+}
+
+#author {
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#source {
+    font-style: italic;
+}
